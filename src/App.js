@@ -11,7 +11,7 @@ export default function App() {
         <footer>
           This project is coded by{" "}
           <a
-            href="https://https://github.com/Trishgachau"
+            href="https://github.com/Trishgachau"
             target="_blank"
             rel="noreferrer"
           >
@@ -19,7 +19,7 @@ export default function App() {
           </a>{" "}
           and is{" "}
           <a
-            href="https://https://github.com/Trishgachau/react-weather-app"
+            href="https://github.com/Trishgachau/react-weather-app"
             target="_blank"
             rel="noreferrer"
           >
